@@ -4,3 +4,4 @@ streamlit>=1.30.0
 plotly>=5.18.0
 jupyter>=1.0.0
 nbformat>=5.9.0
+matplotlib>=3.8.0
