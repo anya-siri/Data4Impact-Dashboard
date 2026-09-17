@@ -5,6 +5,10 @@ program data into a cleaned SQLite database and an interactive dashboard —
 showing how many people are served, how funding is distributed, how programs
 compare across outcomes and cost efficiency, and where impact is growing.
 
+### 🚀 Live Dashboard
+
+**[View the Interactive Data4Impact Dashboard](https://data4impact-dashboard.streamlit.app)**
+
 **Raw CSV → Pandas Data Cleaning → Clean CSV → SQLite Database → Analysis → KPIs → Interactive Dashboard → Business Insights**
 
 > **Note:** The dataset used in this project is entirely **synthetic**,
@@ -180,7 +184,7 @@ Data4Impact-Dashboard/
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/Data4Impact-Dashboard.git
+git clone https://github.com/anya-siri/Data4Impact-Dashboard.git
 cd Data4Impact-Dashboard
 python -m venv venv
 ```
